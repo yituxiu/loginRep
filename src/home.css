@@ -1,0 +1,39 @@
+.container{
+
+    height: 100vh;
+    display: flex;
+    padding: 30px;
+}
+.left_box{
+    flex: 1;
+    text-align: center;
+}
+
+.login_text{
+    color: darkgreen;
+    font-size: 3rem;
+    font-weight: bolder;
+    margin: 2rem 0;
+}
+
+
+.right_box{
+    flex: 1;
+}
+
+.check_Container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.email_text{
+    line-height: 3rem;
+}
+
+.password_text{
+    line-height: 3rem;
+}
+
+.check_Container{
+    line-height: 3rem;
+}
